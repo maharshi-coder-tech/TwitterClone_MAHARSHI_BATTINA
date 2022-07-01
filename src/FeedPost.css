@@ -1,0 +1,18 @@
+.feed_post{
+  display:flex;
+  align-items: flex-start;
+padding-bottom: 10px;
+  border-bottom: 1px solid var(--twitter-background);
+  
+}
+.post_header{
+  display: flex;
+  align-items:center;
+}
+.profile_avatar{
+  padding:25px 10px;
+}
+.post_image > img {
+ max-width:400px;
+ border-radius: 30px;
+}

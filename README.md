@@ -1,2 +1,2 @@
-# Twitter_Clone_by_MAHARSHI_BATTINA
+# Twitter-clone-app
 Created with CodeSandbox
