@@ -1,2 +1,2 @@
-# Twitter-clone-app
-Created with CodeSandbox
+# Twitter-clone-app__MAHARSHI-BATTINA
+Twitter Clone created Successfully.
